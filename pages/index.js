@@ -1,5 +1,8 @@
 function HomePage() {
-    return <div>ねくすと・じぇいえす事始め!</div>;
+    return <div>
+            <p>ねくすと・じぇいえす事始め!</p>
+            <p><a href="/other">別ページへ</a></p>
+      </div>;
   }
 
   export default HomePage;
