@@ -1,7 +1,11 @@
+import Link from 'next/Link';
+
 function HomePage() {
     return <div>
             <p>ねくすと・じぇいえす事始め!</p>
-            <p><a href="/other">別ページへ</a></p>
+            <Link href="/other">
+                <a>別ページへ</a>
+            </Link>
       </div>;
   }
 

@@ -1,7 +1,11 @@
+import Link from 'next/Link';
+
 function Other() {
     return <div>
             <p>ここは別のページだよ〜ん!</p>
-            <p><a href="/">戻る</a></p>
+            <Link href="/">
+                <a>戻る</a>
+            </Link>
         </div>;
   }
 
