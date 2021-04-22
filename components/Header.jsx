@@ -3,10 +3,10 @@ import Link from 'next/link';
 function Header() {
     return <header>
             <h1>ねくすと・じぇいえす事始め!</h1>
-            <p>Menu：
+            <menu>Menu：
                 <Link href="/"><a>トップ</a></Link>｜
                 <Link href="/other"><a>別ページ</a></Link>
-            </p>
+            </menu>
       </header>;
   }
 
