@@ -8,6 +8,10 @@
 
 ※参考：[https://www.i-ryo.com/entry/2021/04/21/072952]
 
+【React】Next.jsのリンク設定（Link）、共通コンポーネント化、headタグ設定(Head）
+
+※参考：[https://www.i-ryo.com/entry/2021/04/23/071217]
+
 ---
 
 プレビュー
